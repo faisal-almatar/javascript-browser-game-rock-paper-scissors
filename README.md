@@ -10,8 +10,7 @@ The game compares the choices and shows who wins. First to 5 points wins the mat
 
 ## 🚀 Getting Started
 
-👉 **Play it here:** [faisal-almatar.github.io/javascript-browser-game-rock-paper-scissors/
-](faisal-almatar.github.io/javascript-browser-game-rock-paper-scissors/
+👉 **Play it here:** [faisal-almatar.github.io/javascript-browser-game-rock-paper-scissors/](https://faisal-almatar.github.io/javascript-browser-game-rock-paper-scissors/)
 )
 
 👉 **Planning Materials:**
